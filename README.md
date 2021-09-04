@@ -1,2 +1,2 @@
-https://wonderful-kare-2dc8f7.netlify.app/
+# github_user_searcher
 created github user searcher application with html css javascript and integrating github api
